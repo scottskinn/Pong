@@ -1,4 +1,4 @@
-const INITIAL_VELOCITY = .025;
+const INITIAL_VELOCITY = .0025;
 const VELOCITY_INCREASE = .00001;
 
 export default class Ball {
