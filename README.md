@@ -17,3 +17,5 @@ Click [here](https://www.youtube.com/watch?v=PeY6lXPrPaA) to watch the tutorial.
     Web Dev Simplified
 
 ## Screenshot
+
+![](images/pong-screenshot.png)
